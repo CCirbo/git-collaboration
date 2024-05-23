@@ -1,9 +1,9 @@
-class Github
+class Pet
     attr_reader :name,
-                :age
+                :type
     def initialze 
         @name = name
-        @age = age
+        @type = type
 
     end
 end
