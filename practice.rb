@@ -5,6 +5,5 @@ class Taco
     def initialze 
         @sauce = sauce
         @age = age
-
     end
 end
