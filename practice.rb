@@ -1,8 +1,9 @@
-class Github
-    attr_reader :name,
+class Taco
+    
+    attr_reader :sauce,
                 :age
     def initialze 
-        @name = name
+        @sauce = sauce
         @age = age
 
     end
