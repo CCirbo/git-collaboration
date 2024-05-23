@@ -1,9 +1,9 @@
-class Pet
-    attr_reader :name,
-                :type
+class Taco
+    
+    attr_reader :sauce,
+                :age
     def initialze 
-        @name = name
-        @type = type
-
+        @sauce = sauce
+        @age = age
     end
 end
